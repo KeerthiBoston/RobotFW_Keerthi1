@@ -2,8 +2,68 @@
 <projectConfiguration>
     <configVersion>2</configVersion>
     <relativeTo>WORKSPACE</relativeTo>
-    <referencedLibrary type="PYTHON" name="SeleniumLibrary" path="C:/Users/Chintu/AppData/Local/Programs/Python/Python310/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
-    <pythonpath/>
+    <referencedLibrary type="PYTHON" name="Selenium2Lib" path="RobotFWV2.3/Lib/Selenium2Lib/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.base" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.base.context" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.base.librarycomponent" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.errors" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.errors.CookieNotFound" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.errors.ElementNotFound" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.errors.NoOpenBrowser" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.errors.PluginError" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.errors.SeleniumLibraryException" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.errors.WindowNotFound" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.alert" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.browsermanagement" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.cookie" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.element" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.formelement" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.frames" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.javascript" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.runonfailure" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.screenshot" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.selectelement" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.tableelement" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.waiting" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.webdrivertools" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.webdrivertools.sl_file_detector" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.webdrivertools.sl_file_detector.SelLibLocalFileDetector" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.webdrivertools.webdrivertools.SeleniumOptions" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.webdrivertools.webdrivertools.WebDriverCache" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.keywords.window" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.locators" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.locators.customlocator" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.locators.elementfinder" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.locators.windowmanager" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.utils" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.utils.events" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.utils.events.event" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.utils.events.event.Event" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.utils.events.scope_event" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.utils.librarylistener" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.utils.librarylistener.LibraryListener" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.utils.path_formatter" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.utils.path_formatter._SafeFormatter" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.utils.types" path="RobotFWV2.3/Lib/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="errors" path="RobotFWV2.3/Lib/SeleniumLibrary/errors.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="errors.CookieNotFound" path="RobotFWV2.3/Lib/SeleniumLibrary/errors.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="errors.ElementNotFound" path="RobotFWV2.3/Lib/SeleniumLibrary/errors.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="errors.NoOpenBrowser" path="RobotFWV2.3/Lib/SeleniumLibrary/errors.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="errors.PluginError" path="RobotFWV2.3/Lib/SeleniumLibrary/errors.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="errors.SeleniumLibraryException" path="RobotFWV2.3/Lib/SeleniumLibrary/errors.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="errors.WindowNotFound" path="RobotFWV2.3/Lib/SeleniumLibrary/errors.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.errors" path="RobotFWV2.3/Lib/SeleniumLibrary/errors.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.errors.CookieNotFound" path="RobotFWV2.3/Lib/SeleniumLibrary/errors.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.errors.ElementNotFound" path="RobotFWV2.3/Lib/SeleniumLibrary/errors.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.errors.NoOpenBrowser" path="RobotFWV2.3/Lib/SeleniumLibrary/errors.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.errors.PluginError" path="RobotFWV2.3/Lib/SeleniumLibrary/errors.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.errors.SeleniumLibraryException" path="RobotFWV2.3/Lib/SeleniumLibrary/errors.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary.errors.WindowNotFound" path="RobotFWV2.3/Lib/SeleniumLibrary/errors.py" dynamic="false"/>
+    <pythonpath>
+        <path location="C:\Users\Chintu\git\RobotProject_Keerthi\RobotFW\Demo"/>
+    </pythonpath>
     <classpath/>
     <excludedForValidation/>
     <isValidatedFileSizeCheckingEnabled>true</isValidatedFileSizeCheckingEnabled>
